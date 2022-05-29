@@ -26,7 +26,7 @@ const education1 =
         city    : "Tangerang"
     }
 ];
-const favoriteRestaurant1 = ["Bento","Sushi","Pancake","Eggy","Tempura","Bento","Eggy","Padang","Tteok","Sushi","Sushi"];
+const favoriteRestaurant1 = ["Bento","Sushi","Pancake","Eggy","Tempura","Padang","Tteok"];
 
 //declare data secondUser
 const name2 = "Wendy";
@@ -57,7 +57,7 @@ const education2 =
         city    : "Tangerang"
     }
 ];
-const favoriteRestaurant2 = ["Tempura","Bento","Sushi","Pancake","Padang","Katsu","Geprek","Pancake","Eggy"];
+const favoriteRestaurant2 = ["Tempura","Bento","Sushi","Pancake","Padang","Katsu","Geprek","Eggy"];
 
 const firstUser = 
 {
